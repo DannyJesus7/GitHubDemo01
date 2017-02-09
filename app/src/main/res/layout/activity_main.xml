@@ -16,5 +16,11 @@
         android:layout_height="wrap_content"
         android:text="2018款福特探险者发布" 
      />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="五大神车，除了五菱宏光你还知道谁？" 
+     />
     
 </RelativeLayout>
